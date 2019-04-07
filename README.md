@@ -15,3 +15,7 @@ Packages
 - alacritty https://github.com/jwilm/alacritty for terminal emulation
 - nvim https://github.com/neovim/neovim aliased to `vim`
 - 
+
+TODO
+- add tmux config file
+- organized the .bash* files
